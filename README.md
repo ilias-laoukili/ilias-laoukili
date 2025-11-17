@@ -14,12 +14,12 @@
 ---
 
 ### 👨‍💻 About Me
-[cite_start]I am a Master of Engineering student specializing in **Artificial Intelligence and Cybersecurity**[cite: 7]. [cite_start]My academic background includes intensive preparatory classes in Physics and Advanced Mathematics (PCSI-PC)[cite: 11, 12, 14].
+I am a Master of Engineering student specializing in **Artificial Intelligence and Cybersecurity**. My academic background includes intensive preparatory classes in Physics and Advanced Mathematics (PCSI-PC).
 
-- [cite_start]🎓 **Education:** Master of Engineering @ ESIEE Paris (Class of 2026)[cite: 6, 8].
-- [cite_start]💼 **Goal:** Seeking a **4-month internship** between **May and August 2026**[cite: 4].
-- [cite_start]🧠 **Interests:** Machine Learning, Computer Vision, and Network Security[cite: 10, 41].
-- [cite_start]📜 **Certifications:** Harvard CS50's Introduction to AI with Python.
+- 🎓 **Education:** Master of Engineering @ ESIEE Paris (Class of 2026).
+- 💼 **Goal:** Seeking a **4-month internship** between **May and August 2026**.
+- 🧠 **Interests:** Machine Learning, Computer Vision, and Network Security.
+- 📜 **Certifications:** Harvard CS50's Introduction to AI with Python.
 
 ---
 
