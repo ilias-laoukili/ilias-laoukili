@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 I am a Master of Engineering student specializing in **Artificial Intelligence and Cybersecurity**. My academic background includes intensive preparatory classes in Physics and Advanced Mathematics (PCSI-PC).
 
-- 🎓 **Education:** Master of Engineering @ ESIEE Paris (Class of 2026).
+- 🎓 **Education:** Master of Engineering @ ESIEE Paris (Class of 2027).
 - 💼 **Goal:** Seeking a **4-month internship** between **May and August 2026**.
 - 🧠 **Interests:** Machine Learning, Computer Vision, and Network Security.
 - 📜 **Certifications:** Harvard CS50's Introduction to AI with Python.
