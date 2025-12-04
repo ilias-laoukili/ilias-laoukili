@@ -37,7 +37,7 @@ I am a Master of Engineering student specializing in **Artificial Intelligence a
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilias-laoukili&show_icons=true&theme=tokyonight" alt="Ilias's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias-laoukili&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilias-laoukili&show_icons=true&theme=tokyonight" alt="Ilias's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias-laoukili&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
