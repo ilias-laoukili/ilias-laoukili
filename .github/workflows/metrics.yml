@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Update every day at midnight
   schedule: [{cron: "0 0 * * *"}]
-  # Run manually when needed
   workflow_dispatch:
-  # Run on push to master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -17,17 +14,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # --- Configuration ---
           user: ilias-laoukili
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, metadata
           config_timezone: Europe/Paris
           
-          # --- Theme: Tokyo Night ---
           config_theme: tokyonight
           
-          # --- Languages Plugin (Replaces the second card) ---
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, "jupyter notebook"
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
