@@ -3,7 +3,7 @@
 **AI Advisor @ MCN · M.Sc. Computer Science & AI @ Université Laval · ESIEE Paris**  
 ML Systems, Graph Neural Networks, RAG & Rust/Python · Québec, QC, Canada
 
-[Portfolio (`ilias.laoukili.com`)](https://ilias.laoukili.com) · [Resume (EN)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_en.pdf) · [CV (FR)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_fr.pdf) · [LinkedIn](https://www.linkedin.com/in/ilias-laoukili) · [Email](mailto:ilias.laoukili@proton.me)
+[Portfolio (`ilias.laoukili.com`)](https://ilias.laoukili.com) · [Resume (EN)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_en.pdf) · [CV (FR)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_fr.pdf) · [LinkedIn](https://www.linkedin.com/in/ilias-laoukili)
 
 ---
 
