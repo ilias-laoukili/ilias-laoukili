@@ -1,46 +1,37 @@
-<h1 align="center">Hi there, I'm Ilias Laoukili! 👋</h1>
+# Ilias Laoukili
+
+**AI Advisor @ MCN · M.Sc. Computer Science & AI @ Université Laval · ESIEE Paris**  
+ML Systems, Graph Neural Networks, RAG & Rust/Python · Québec, QC, Canada
+
+[Portfolio (`ilias.laoukili.com`)](https://ilias.laoukili.com) · [Resume (EN)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_en.pdf) · [CV (FR)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_fr.pdf) · [LinkedIn](https://www.linkedin.com/in/ilias-laoukili) · [Email](mailto:ilias.laoukili@proton.me)
+
+---
+
+### Background
+
+- **Current Role:** AI Advisor (Student Position) at the *Ministère de la Cybersécurité et du Numérique (MCN)* — AI Transformation Office, Québec.
+- **Education:** M.Sc. in Computer Science (Research Track, supervised by Prof. Talal Halabi) at **Université Laval** — dual degree with **ESIEE Paris** (M.Eng. in AI & Cybersecurity, 2024–2027).
+- **Prior Experience:** R&D Engineering Intern at **Nanyang Polytechnic (Singapore)** (RAG for EnergyPlus building simulations) and Research Assistant at **LAMA / Université Gustave Eiffel** (deterministic graph sparsification for GNNs).
+
+---
+
+### Selected Repositories
+
+| Project | Focus | Links |
+|---|---|---|
+| **[plekton](https://github.com/ilias-laoukili/plekton)** | Pure-Rust library with zero-copy Python (`PyO3`) bindings for synthetic graph generation (SBM, DC-SBM, cSBM), blockmodel fitting, structural metrics, and spectral sparsification. | [Write-up](https://ilias.laoukili.com/en/blog/plekton/) |
+| **[gnn-sparsification-research](https://github.com/ilias-laoukili/gnn-sparsification-research)** | Deterministic graph sparsification experiments investigating accuracy vs. computational efficiency trade-offs in GNNs (LAMA, Université Gustave Eiffel). | [Write-up](https://ilias.laoukili.com/en/blog/graph-sparsification/) |
+| **[sentim-app](https://github.com/ilias-laoukili/sentim-app)** | End-to-end speech emotion recognition (8 emotions, RAVDESS) combining DSP features with 2D-spectrogram PyTorch CNN/ResNet models and a live Streamlit dashboard. | [Write-up](https://ilias.laoukili.com/en/blog/sentim-audio-emotion-analysis/) · [Demo](https://sentim-app.streamlit.app/) |
+| **[resume](https://github.com/ilias-laoukili/resume)** | Single-source YAML-to-LaTeX pipeline generating synchronized EN/FR Industry and Research/Academic 1-page CVs via GitHub Actions. | [Latest PDFs](https://github.com/ilias-laoukili/resume/releases/latest) |
+
+---
+
+### Core Stack
+
+`Python` · `Rust` · `PyTorch` · `PyTorch Geometric` · `PyO3` · `RAG / LLM` · `Scikit-learn` · `SQL` · `Docker` · `Linux` · `GitHub Actions`
+
+---
 
 <p align="center">
-  <b>AI & Cybersecurity Engineering Student at ESIEE Paris</b><br>
-  <i>Exploring the intersection of intelligent systems and digital security.</i>
-</p>
-
-<p align="center">
-  <a href="https://laoukili.com">🌐 <b>Portfolio (laoukili.com)</b></a> •
-  <a href="https://linkedin.com/in/ilias-laoukili">👔 LinkedIn</a> •
-  <a href="mailto:ilias.laoukili@proton.me">📧 Email Me</a>
-</p>
-
----
-
-### 👨‍💻 About Me
-I am a fourth-year engineering student at **ESIEE Paris**. I enjoy working on technical challenges that combine mathematics, data, and system security.
-
-- 🎓 **Education:** Engineering Student @ ESIEE Paris (Class of 2027).
-- 🧠 **Interests:** Graph Neural Networks, Digital Signal Processing, and Network Security.
-- 🔭 **Current Focus:** I am currently working on **Graph Sparsification** techniques to optimize GNNs.
-
----
-
-### 🔬 Featured Projects
-* **[Graph Sparsification](https://laoukili.com/blog/graph-sparsification):** A project exploring geometric interventions (Discrete Ricci Curvature) to optimize Graph Neural Networks.
-* **[Sentim](https://laoukili.com/blog/sentim-audio-emotion-analysis):** An audio emotion recognition tool built with a custom DSP pipeline and Random Forest classifier.
-
----
-
-### 🛠️ Tech Stack
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-**Tools & Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="github-metrics.svg" alt="Ilias's GitHub Stats" width="100%" />
+  <img src="github-metrics.svg" alt="Ilias Laoukili GitHub metrics" width="100%" />
 </p>
