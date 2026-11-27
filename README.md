@@ -1,7 +1,7 @@
 # Ilias Laoukili
 
 **AI Advisor @ MCN · M.Sc. Computer Science & AI @ Université Laval · ESIEE Paris**  
-ML Systems, Graph Neural Networks, RAG & Rust/Python · Québec, QC, Canada
+ML Systems, Graph Neural Networks, Cybersecurity & Rust/Python · Québec, QC, Canada
 
 [Portfolio (`ilias.laoukili.com`)](https://ilias.laoukili.com) · [Resume (EN)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_en.pdf) · [CV (FR)](https://github.com/ilias-laoukili/resume/releases/latest/download/cv_industry_fr.pdf) · [LinkedIn](https://www.linkedin.com/in/ilias-laoukili)
 
@@ -19,6 +19,7 @@ ML Systems, Graph Neural Networks, RAG & Rust/Python · Québec, QC, Canada
 
 | Project | Focus | Links |
 |---|---|---|
+| **[manis](https://github.com/ilias-laoukili/manis)** | Offline Linux hardening audit CLI in safe Rust (`#![forbid(unsafe_code)]`, single static binary, zero subprocesses) — 103 rules mapped to CIS Ubuntu 24.04, ANSSI-BP-028 v2.0 & NIST SP 800-53 (Debian family + `linux-generic`), deterministic SARIF 2.1.0 & drift `diff`. | [Release v1.0.0](https://github.com/ilias-laoukili/manis/releases/latest) |
 | **[plekton](https://github.com/ilias-laoukili/plekton)** | Pure-Rust library with zero-copy Python (`PyO3`) bindings for synthetic graph generation (SBM, DC-SBM, cSBM), blockmodel fitting, structural metrics, and spectral sparsification. | [Write-up](https://ilias.laoukili.com/en/blog/plekton/) |
 | **[gnn-sparsification-research](https://github.com/ilias-laoukili/gnn-sparsification-research)** | Deterministic graph sparsification experiments investigating accuracy vs. computational efficiency trade-offs in GNNs (LAMA, Université Gustave Eiffel). | [Write-up](https://ilias.laoukili.com/en/blog/graph-sparsification/) |
 | **[sentim-app](https://github.com/ilias-laoukili/sentim-app)** | End-to-end speech emotion recognition (8 emotions, RAVDESS) combining DSP features with 2D-spectrogram PyTorch CNN/ResNet models and a live Streamlit dashboard. | [Write-up](https://ilias.laoukili.com/en/blog/sentim-audio-emotion-analysis/) · [Demo](https://sentim-app.streamlit.app/) |
